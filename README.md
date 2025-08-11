@@ -1,7 +1,6 @@
 ## My posts  
-### **2025-08** (3)  
-- 2025-08-11 [反对犯得上](https://fack058.github.io/2025/08/11/%E5%A3%AB%E5%A4%A7%E5%A4%AB%E5%A4%A7%E5%B8%88%E5%82%85/)  
-- 2025-08-11 [弹射起步2](https://fack058.github.io/2025/08/11/%E7%94%9F%E6%B4%BB/%E4%BA%BA%E7%94%9F/%E5%AE%A2%E8%A7%82/%E5%BC%B9%E5%B0%84%E8%B5%B7%E6%AD%A5/)  
+### **2025-08** (2)  
+- 2025-08-11 [弹射起步](https://fack058.github.io/2025/08/11/%E7%94%9F%E6%B4%BB/%E4%BA%BA%E7%94%9F/%E5%AE%A2%E8%A7%82/%E5%BC%B9%E5%B0%84%E8%B5%B7%E6%AD%A5/)  
 - 2025-08-11 [IPTV](https://fack058.github.io/2025/08/11/%E5%BD%B1%E8%A7%86/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%85%B7/IPTV/)  
   
   

@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.name == "index"
+    order:
+      - file.name
+      - file.path
+      - type
